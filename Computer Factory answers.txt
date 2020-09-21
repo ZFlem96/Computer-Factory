@@ -1,0 +1,33 @@
+1.45600  computers
+
+2.45600000  computers
+
+3. For the first 3, I added one to the processor team and the other 2 went to the HDD team.
+   Guess: 46000000 computers | Actual: 5760000 | Difference: -40240000
+
+4. per salary: $600
+       
+
+Before:
+      * Expected revenue: $91200
+      * discarded parts cost: $2560
+      * total salary given:$6000
+      * profit/loss: +$82640
+
+After:
+      * Expected revenue: $11520
+      * discarded parts cost: $1280
+      * total salary given: $7800
+      * profit/loss: +$2440
+
+After profit/loss - Before profit/loss =  -$80200     
+
+5. Went for a more balanced roll out with 4 on mother board, and 3 to each of the other parts
+Results:
+	  * Computers made: 5440000
+      * Expected revenue: $10880
+      * discarded parts cost: $2560
+      * total salary given: $7800
+      * profit/loss: +$520
+New Result Profit - 1st profit = -$82120
+New Result Profit - 2nd profit = -$1920    
